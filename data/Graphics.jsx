@@ -230,7 +230,7 @@ export default function Graphics() {
     },
     {
       id: 2,
-      image: heroImg,
+      image: typeAndFormFinal,
       title: "Graphics Prroj 2",
       date: "April 2025",
       description: "Exploring computational sound, I wanted to visualize sound, creating a looper pedal effect where users can record themselves and play back audio, while observing their audio being transformed into a kaleidoscope visual.",
@@ -238,7 +238,7 @@ export default function Graphics() {
     },
     {
       id: 3,
-      image: heroImg,
+      image: typeAndFormFinal,
       title: "Graphics Prroj 3",
       date: "April 2025",
       description: "Exploring computational sound, I wanted to visualize sound, creating a looper pedal effect where users can record themselves and play back audio, while observing their audio being transformed into a kaleidoscope visual.",
