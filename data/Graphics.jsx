@@ -235,34 +235,6 @@ export default function Graphics() {
       date: "April 2025",
       description: "Exploring computational sound, I wanted to visualize sound, creating a looper pedal effect where users can record themselves and play back audio, while observing their audio being transformed into a kaleidoscope visual.",
       tags: ["Python"],
-      sections: [
-        {
-          heading: "",
-          text: [
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-          ],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-      ],
     },
     {
       id: 3,
