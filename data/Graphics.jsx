@@ -251,7 +251,7 @@ export default function Graphics() {
       <section
         className="codehero"
         style={{
-          backgroundImage: `url(${heroImg})`, 
+          backgroundImage: `url(${typeAndFormFinal})`, 
         }}
       ></section>
 
