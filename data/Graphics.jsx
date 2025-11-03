@@ -42,6 +42,20 @@ import geo10 from "../assets/Images/FINE228-PatternRepeat/geo10.png";
 import geo11 from "../assets/Images/FINE228-PatternRepeat/geo11.png";
 import geo12 from "../assets/Images/FINE228-PatternRepeat/geo12.png"; 
 import geo13 from "../assets/Images/FINE228-PatternRepeat/geo13.png";
+import nat1 from "../assets/Images/FINE228-PatternRepeat/nat1.png";
+import nat2 from "../assets/Images/FINE228-PatternRepeat/nat2.png";
+import nat3 from "../assets/Images/FINE228-PatternRepeat/nat3.png";
+import nat4 from "../assets/Images/FINE228-PatternRepeat/nat4.png";
+import bee1 from "../assets/Images/FINE228-PatternRepeat/bee1.png";
+import bee2 from "../assets/Images/FINE228-PatternRepeat/bee2.png";
+import bee3 from "../assets/Images/FINE228-PatternRepeat/bee3.png";
+import bee4 from "../assets/Images/FINE228-PatternRepeat/bee4.png";
+import bee5 from "../assets/Images/FINE228-PatternRepeat/bee5.png";
+import bee6 from "../assets/Images/FINE228-PatternRepeat/bee6.png";
+import bee7 from "../assets/Images/FINE228-PatternRepeat/bee7.png";
+import bee8 from "../assets/Images/FINE228-PatternRepeat/bee8.png";
+import bee9 from "../assets/Images/FINE228-PatternRepeat/bee9.png";
+import bee10 from "../assets/Images/FINE228-PatternRepeat/bee10.png";
 
 export default function Graphics() {
   const GraphicsProjects = [
@@ -358,6 +372,163 @@ export default function Graphics() {
           ],
         },
         {
+          heading: "Nature Inspired Patterns",
+          text: [
+            "▸ Since nature is all around us, we often forget that there are patterns in it - patterns in flowers, leaves, and animal plumage or fur.",
+          ],
+          images: [
+            nat1,
+            nat2,
+            nat3,
+            nat4,
+          ],
+        },
+        {
+          heading: "Inspirational Patterned Artists",
+          text: [
+            "▸ Gustav Klimt - The Tree of Life",
+            "▸ M.C. Escher - Study of Regular Division of the Plane with Reptiles (1939)",
+            "▸ M.C. Escher - Metamorphosis Collection",
+            "▸ M.C. Escher - Circle Limit Series (1958-1960)",
+            "▸ M.C. Escher - Birds (1926)",
+            "▸ Anni Albers - Various Textile Patterns",
+            "▸ Andy Warhol - Marilyn Diptych (1962)",
+            "▸ Yayoi Kusama - Dots Obsession Series (2003)",
+            "▸ Yayoi Kusama - Butterfly (1988)",
+            "▸ Yayoi Kusama - Sea (2005)",
+            "▸ Yayoi Kusama - Waves on the Hudson (1988)",
+            "▸ Yayoi Kusama - Petals (1988)",
+            "▸ Yayoi Kusama - Yellow Dots B (1993)",
+            "▸ Bridget Riley - Fold (2004)",
+            "▸ Bridget Riley - Movement in Squares (1961)",
+            "▸ Bridget Riley - Blaze 1 (1962)",
+            "▸ Bridget Riley - Cataract 3 (1967)",
+            "▸ Bridget Riley - Two Blues (2003)",
+            "▸ Bridget Riley - Fragment 3 (1965)",
+            "▸ Takashi Murakami - Koi / Red-Crowned Crane Vermillion",
+            "▸ Takashi Murakami - Flower Ball (2002)",
+            "▸ Takashi Murakami - Eye Love Superflat (2003)",
+            "▸ Takashi Murakami - An Homage to Monopink (1960)",
+          ],
+        },
+        {
+          heading: "Final Project Ideas",
+          text: [
+            "Most ideas I had for the final project highly revolved around observed patterns in nature.",
+          ],
+        },
+        {
+          heading: "Halloween and Spooks",
+          text: [
+            "▸ One idea I had was a design that was horror or Halloween themed because October 31st was fast approaching.",
+            "▸ One thing I thought would have been a cool idea was being able to create a large tree with a hidden owl in it.",
+            "▸ The figure and details of the owl would be created with the etched cream, while the entire tree would be brown.",
+            "▸ This would have attempted to keep the owl more subtle in the tree, while still showing the brown colour. This would have been an interesting idea to try and mimic patterns of animals for camouflage in nature.",
+            "▸ Unfortunately, as I was considering this, I realized that some vinyl paper only shows on one side and others show on both (some of the 'special' paper I was looking at was only one sided).",
+            "▸ This meant that I could not layer the etched cream over the brown vinyl paper.",
+            "▸ As much as I loved the idea of the whole design, another reason why I did not end up doing it is because the majority of the base (glass) would have been covered, which felt like it defeated the purpose of working with the glass and the transparency of the object.",
+          ],
+        },
+        {
+          heading: "Fall Leaves",
+          text: [
+            "▸ As I was walking to skating practice early in the morning, I was looking down at the ground and noticed the shadows of the tree branches and leaves, as well as all the colourful leaves that have already fallen to the ground.",
+            "▸ Fall is iconic for its colourful and vibrant colours.",
+            "▸ I thought it would have been an interesting idea to try and layer different coloured leaf silhouettes and observe the pattern and effect it created.",
+            "▸ Create abstract leaves with much negative space to show the details, textures, and patterns in the leaves.",
+            "▸ Layer the different leaves over each other to mimic a 'pile of leaves' or leaves that have fallen on the ground.",
+            "▸ This idea really reminded me of jumping into a pile of freshly raked colourful leaves and thought this could be a very cool reminiscent piece.",
+          ],
+        },
+        {
+          heading: "Bees and Flowers",
+          text: [
+            "▸ When thinking about patterns, one of the immediate ideas that comes to mind are honeycombs and the patterns associated with it.",
+            "▸ Also, recently one of my friends got a tattoo of bees, and I thought this would be a pretty interesting idea to play with.",
+            "▸ Since bees are often associated with flowers too, I was thinking I could somehow combine honeycombs, flowers, and bees into one pattern.",
+            "▸ Over reading week, I remember watching Avatar and saw the beautiful vibrant neon flowers.",
+            "▸ This reminded me of a post I saw on Instagram, where it said 'Thinking about how bees see flowers' and showed a flower with similar colours.",
+            "▸ I decided to do some research on this and learned that bees see colours very differently than we do.",
+            "▸ I thought this would have been a very cool but possibly difficult idea to try and imitate how bees view the world around us. (They see different spectrums of colours than we do, including UV)",
+            "▸ I also really wanted to work with etching for this project.",
+            "▸ I noticed that etching glass could have some pretty cool effects, including creating depth and three-dimensional feels, especially when the light hits it at certain angles.",
+            "▸ I thought it could be pretty interesting to try and mimic the 2D and 3D feel and aspect of the honeycomb using etching.",
+            "▸ I also wanted to use the mass production of the pattern to mimic the number of bees in a hive.",
+          ],
+          images: [
+            bee1,
+            bee2,
+            bee3,
+            bee4,
+            bee5,
+            bee6,
+          ],
+        },
+        {
+          heading: "Final Design and Work",
+          text: [
+            "▸ Of all the final ideas, I really liked Bees and Flowers the most.",
+            "▸ I thought it would haave been really cool and somewhat of a challenge to try and imitate how bees see the world since they can see UV light.",
+            "▸ I also really liked the representation of the etched glass with respect to honeycombs.",
+            "▸ I also somewhat enjoyed the chaotic-ness of the pattern, imitating how nature always seems to know what it is doing.",
+          ],
+          images: [
+            bee7,
+          ],
+        },
+        {
+          text: [
+            "▸ The image above is the original vector design.",
+            "▸ The design is to scale of the actual project.",
+          ],
+          images: [
+            bee8,
+          ],
+        },
+        {
+          text: [
+            "▸ The image above is the vector design of the pattern that is being repeated.",
+            "▸ The repetition tile type is a 'grid'.",
+          ],
+          images: [
+            bee9,
+            bee10,
+          ],
+        },
+        {
+          text: [
+            "▸ The images above are pictures of the final work - vinyl.",
+            "▸ For reference, the hexagons are etched glass and everything else is made of vinyl.",
+            "▸ The pink vinyl (in the final work) or dark pink (in the vector design) of the flower is a glittery vinyl that shimmers when the light hits it at specific areas.",
+            "▸ The blue and gray vinyl (in the final work) or the light pink (in the vector design) of the flower is a shiny piece of vinyl that 'changes colour' based on where and how the light hits it.",
+          ],
+        },
+        {
+          text: [
+            "I enjoyed this project so much that I wanted to recreate another one.",
+          ],
+          images: [
+            pattern2
+          ],
+        },
+      ],
+    },
+    {
+      id: 3,
+      image: typeAndFormFinal,
+      title: "Graphics Prroj 3",
+      date: "April 2025",
+      description: "Exploring computational sound, I wanted to visualize sound, creating a looper pedal effect where users can record themselves and play back audio, while observing their audio being transformed into a kaleidoscope visual.",
+      tags: ["Python"],
+      sections: [
+        {
+          images: [],
+        },
+        {
+          heading: "",
+          text: [],
+        },
+        {
           heading: "",
           text: [],
         },
@@ -398,14 +569,6 @@ export default function Graphics() {
         },
       ],
     },
-    {
-      id: 3,
-      image: typeAndFormFinal,
-      title: "Graphics Prroj 3",
-      date: "April 2025",
-      description: "Exploring computational sound, I wanted to visualize sound, creating a looper pedal effect where users can record themselves and play back audio, while observing their audio being transformed into a kaleidoscope visual.",
-      tags: ["Python"],
-    },
   ];
 
   return (
@@ -413,7 +576,7 @@ export default function Graphics() {
       <section
         className="codehero"
         style={{
-          backgroundImage: `url(${typeAndFormFinal})`, 
+          backgroundImage: `url(${pattern2})`, 
         }}
       ></section>
 
