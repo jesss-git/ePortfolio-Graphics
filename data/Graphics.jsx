@@ -57,6 +57,13 @@ import bee8 from "../assets/Images/FINE228-PatternRepeat/bee8.png";
 import bee9 from "../assets/Images/FINE228-PatternRepeat/bee9.png";
 import bee10 from "../assets/Images/FINE228-PatternRepeat/bee10.png";
 
+import mod2 from "../assets/Images/FINE130/mod2.jpg";
+import mod3 from "../assets/Images/FINE130/mod3.jpg";
+import mod4 from "../assets/Images/FINE130/mod4.jpg";
+import mod6 from "../assets/Images/FINE130/mod6.jpg";
+import mod6pt2 from "../assets/Images/FINE130/mod6pt2.jpg";
+import mod7 from "../assets/Images/FINE130/mod7.jpg";
+
 export default function Graphics() {
   const GraphicsProjects = [
     {
@@ -515,56 +522,139 @@ export default function Graphics() {
     },
     {
       id: 3,
-      image: typeAndFormFinal,
-      title: "Graphics Prroj 3",
-      date: "April 2025",
-      description: "Exploring computational sound, I wanted to visualize sound, creating a looper pedal effect where users can record themselves and play back audio, while observing their audio being transformed into a kaleidoscope visual.",
-      tags: ["Python"],
+      image: mod6,
+      title: "Protect and Respect",
+      date: "November 2020",
+      description: "This piece is meant to reflect the global pandemic in 2020 and the importance of wearing masks to protect ourselves and others.",
+      tags: ["Photoshop"],
       sections: [
         {
-          images: [],
+          images: [
+            mod6pt2,
+          ],
         },
         {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
-          text: [],
-        },
-        {
-          heading: "",
+          heading: "Protect and Respect",
           text: [
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
-            "▸ ",
+            "These two protest posters address a very current issue, pertaining specially to the year, 2020. Both pieces reflect upon the global pandemic, COVID-19, and the usage of masks. This has been a huge personal concern that I really wanted to voice out about and express my thoughts for, especially since I've constantly seen individuals refuse to follow certain protocols, whether it be on the news, media, or even in person.",
+            "When the pandemic first started and everyone was put under quarantine, my parents and I would listen to the news daily, listening to the number of new cases, as well as the number of deaths growing each day, from this deadly disease. After the first few months, the number of cases started to slowly decrease, and the government began to loosen restrictions on the city. However, they kept certain rules, such as wearing a mask and maintaining two metres between others. As the months progressed, people began getting very careless with following such protocols, which is why I chose to direct my protest posters towards this issue.",
+          ],
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "Since I constantly heard Trudeau and my parents saying we were at war with COVID-19, both posters were inspired by World War I and World War II propaganda posters, incorporating subtle details that many would recognize. For instance, the text poster imitates the 'Are YOU doing all you can?' World War II propaganda poster, but with a slight twist. Rather than a finger pointing through the rip, there are hands embracing a medical mask, as though the poster itself is offering the viewer a mask to wear. Throughout the pandemic, people have tried to enlighten others by decorating their masks, which is reflected through the text poster, but with a specific message instead, 'stop COVID-19.' Finally, the words, 'PROTECT' and 'RESPECT' remind the reader that masks protect them and others.",
+          ],
+        },
+        {
+          images: [
+            mod6,
+          ],
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "Similarly, in the image poster, I drew a graphic design of Trudeau wearing a mask, pointing at the audience viewing the piece. This imitates the very popular propaganda poster, 'Uncle Sam Poster.' Trudeau wearing a mask in the poster subtly hints the viewer to do the same. In addition to this, the poster further moves the audience and intimidates them to wear a mask because Trudeau is pointing and staring directly at them, imposing some form of fear on the observer. In the background, the words 'PROTECT RESPECT' constantly repeat, a quote that I heard from Lady Gaga, reminding the reader that masks protect them and others from COVID-19 and are subtle signs of respect. Since I am appealing to a Canadian audience, the colours used for both posters are mostly red and white, which reflects our Canadian pride, but also reminds us all that we are still united even when isolated.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 4,
+      image: mod7,
+      title: "My Artistic Life",
+      date: "November 2020",
+      description: "A digital portrait representing how my hobbies have shaped me as an individual and tell my story.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod7,
+          ],
+        },
+        {
+          heading: "My Artistic Life",
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "This original piece, 'My Artistic Life,' is a digital self-portrait that clearly depicts me as an individual, my interests, and how I see the world. It reflects what shaped my perspective when growing up into the individual that I now identify as.",
+            "My portrait resembles how much photography and figure skating have impacted my life, molding me into the person that I am. I always looked up to my father and his photography skills, growing up and constantly learning from him. He taught me everything I know about photography. As I got older, my passion for photography grew because it allowed me to capture the moment and truly remember and cherish it forever.",
+            "Likewise, my life has constantly revolved around figure skating. Beginning competitive figure skating when I was five years old, my father would always take pictures at every single competition, capturing the elegance and beauty, and most importantly, the memory. Since I began figure skating at such a young age, putting so much time and effort into the sport, it really impacted me and the person I am today. The sport made me into the confident, artistic, and confident woman that I am today. Without this sport in my life, I wouldn't be where I am today.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 5,
+      image: mod3,
+      title: "Set Free",
+      date: "October 2020",
+      description: "A piece inspired by one of the Hogwarts houses, Gryffindor, from Harry Potter, symbolizing deconstruction.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod3,
+          ],
+        },
+        {
+          heading: "Set Free",
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "This piece conforms to the definition of deconstructed space, as seen with the left side of the abstract lion's mane. This piece was inspired by the Hogwarts house, Gryffindor, in Harry Potter, which is represented by a lion and emphasizes traits of courage, daring, and chivalry. The lion resembles a strong and powerful individual who is currently going through difficult hardships as seen through the animal's facial expression. However, no matter how strong an individual may be, sometimes it is physically and mentally impossible to continuously keep fighting. Instead, as depicted by the deconstructed mane, one should learn to let go of uncontrollable issues that cannot be resolved, leaving the result to fate.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 6,
+      image: mod2,
+      title: "Heavenly Hope",
+      date: "September 2020",
+      description: "Inspired by Japanses tradition and created during the 2020 COVID-19 pandemic, this piece was a reminder and representation of hope.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod2,
+          ],
+        },
+        {
+          heading: "Heavenly Hope",
+        },
+        {
+          heading: "Artist Statemet",
+          text: [
+            "In Japan, the famously well-known origami paper crane, which represents good fortune and longevity in many Asian cultures, was believed to have carried souls up to paradise and lived for a thousand years. Traditionally, they thought that if one folded a thousand origami cranes, they were given the chance to make a special wish that would come true; in other variations, people believed one would be granted happiness and eternal luck by the gods.",
+            "The artwork, 'Heavenly Hope,' was inspired by a selfless friend who recently hand folded a thousand origami cranes and donated them to a local hospital, wishing that all those who were ill would make a strong and healthy recovery. He willingly gave up his time, effort, and wish to give back to the community and instill hope in others.",
+            "'Heavenly Hope' is a visual representation of his story and the Japanese tradition. The background is Japanese inspired, composed of circles overlapping each other, imitating movement in the sky. The large red cranes serve as a symbol for luck, vitality, and power, while the small but many yellow cranes symbolize hope. Like in the traditional Japanese story, all the cranes are ascending, carrying all the souls of those who passed away from old age or illnesses from within the hospital. In essence, te underlying theme around the artwork is the essential hope everyone needs every day, especially during hardships when people are at the lowest points of their lives.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 7,
+      image: mod4,
+      title: "Fluttering Hope",
+      date: "October 2020",
+      description: "I created this piece as a reminder to always have hope, and emphasize the importance of it, especially during the darkest of times.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod4,
+          ],
+        },
+        {
+          heading: "Fluttering Hope",
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "During these unprecedented times, as the world battles with COVID-19, it is important to have hope, no matter how little, which is the reason I created this original piece, 'Fluttering Hope.' The white doves symbolize the hope that illuminate, motivate, and give life to people in times of darkness, as represented by the black background.",
           ],
         },
       ],
