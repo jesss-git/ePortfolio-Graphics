@@ -64,6 +64,20 @@ import mod6 from "../assets/Images/FINE130/mod6.jpg";
 import mod6pt2 from "../assets/Images/FINE130/mod6pt2.jpg";
 import mod7 from "../assets/Images/FINE130/mod7.jpg";
 
+import oldLogo from "../assets/Images/Personal-Logo/oldLogo.jpg";
+import personalLogo from "../assets/Images/Personal-Logo/personalLogo.png";
+
+import csLogo from "../assets/Images/Waterloo-Logo/CSLogo.png";
+import allDesigns from "../assets/Images/Waterloo-Logo/allDesigns.png";
+import back1 from "../assets/Images/Waterloo-Logo/back1.png";
+import back2 from "../assets/Images/Waterloo-Logo/back2.png";
+import back3 from "../assets/Images/Waterloo-Logo/back3.png";
+import back4 from "../assets/Images/Waterloo-Logo/back4.png";
+import back5 from "../assets/Images/Waterloo-Logo/back5.png";
+import back6 from "../assets/Images/Waterloo-Logo/back6.png";
+import back7 from "../assets/Images/Waterloo-Logo/back7.png";
+import back8 from "../assets/Images/Waterloo-Logo/back8.png";
+
 export default function Graphics() {
   const GraphicsProjects = [
     {
@@ -657,6 +671,96 @@ export default function Graphics() {
             "During these unprecedented times, as the world battles with COVID-19, it is important to have hope, no matter how little, which is the reason I created this original piece, 'Fluttering Hope.' The white doves symbolize the hope that illuminate, motivate, and give life to people in times of darkness, as represented by the black background.",
           ],
         },
+      ],
+    },
+    {
+      id: 8,
+      image: personalLogo,
+      title: "Personal Logo Design",
+      date: "September 2020",
+      description: "A personal logo that represents me as an individual.",
+      tags: ["Illustrator"],
+      sections: [
+        {
+          images: [
+            personalLogo,
+          ],
+        },
+        {
+          heading: "Personal Logo Design - Evolution of My Design Identity",
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "My personal logo is a visual representation of my journey as both a developer and designer - two fields that constantly intersect in my work. Inspired by the Adobe Illustrator pen tool, this logo bridges my creative roots in digitial design and my techical background in Computer Science at the University of Waterloo, where I specialized in Computational Fine Arts.",
+            "The pen tool symbolizes my ongoing passion for design and my connection to creativity and the digital medium, while the colour palette - black and gold - pays tribute to Waterloo's school colours, reflecting the academic foundation that has shaped my identity and my approach to problem-solving and innovation. Within the logo, my initials, 'JC,' serve as a signature mark, emphasizing my personal brand, identity, and individuality. Surrounding it, circuit board motifs integrate the logic and precision of computation, merging art and technology into one cohesive design.",
+            "This piece encapsulates my dual identity as a designer and developer, showcasing the harmonious blend of creativity and technical expertise that defines my work and aspirations.",
+          ],
+        },
+        {
+          heading: "Design Process",
+          text: [
+            "The logo has evolved alongside my growth as both a student, designer, and developer. Initially, I started with a simple design that incorporated my initials, 'JC,' using basic shapes and lines. However, as I progressed in my studies and gained a deeper understanding of both design principles and technical concepts, I began to refine and enhance the logo to better reflect my identity. What began as a simple symbol for my design practice gradually transformed into a layered visual narrative that reflects my personal and academic developmet.",
+            "I began by exploring the concept of identity through familiar visual elements, such as commonly used tools in design, symbols, and typography. Adobe Illustrator became both the medium and metaphor - being a space to create and a symbol of creation itself. The design process involved iterative sketching, vector experimentation, and exploring the interplay between shape, contrast, and meaning.",
+            "Each stage of the redesign marked a new chapter in my journey, reflecting my evolving skills, perspectives, and aspirations as a designer and developer. I aimed to create a logo that tells a story of my growth, values, and the unique blend of creativity and technical expertise that defines my identity.",
+          ],
+        },
+        {
+          images: [
+            oldLogo,
+          ],
+        },
+        {
+          heading: "Early Version - Foundations of Identity (2019)",
+          text: [
+            "The original logo was created during my time in high school, where my passion for graphic design began, marking the beginning of my journey as a designer and developer. The design also featured the Adobe Illustrator pen tool, representing creativity and my connection and growing interest in digital design and multimedia.",
+            "Inside the pen tool, I embedded my initials, 'JC,' using simple shapes and lines to form the letters. The design was minimalistic, focusing on clarity and legibility, while also incorporating a sense of professionalism and creativity.",
+            "Eventually, I decided to refine the logo further to better reflect my identity. I fused my initials with the imagery of a lion's face - a direct reference to my high school mascot. The lion symbolized courage, creativity, and the beginning of my journey in visual communication.",
+            "This logo marked my first exploration into personal branding and symbol creation, and served as an assignment for my Communications Technology course in grade 12. It reflected who I was at the time - an emerging designer eager to explore the world of digital art and visual storytelling, while finding my voice through digital tools.",
+          ],
+        },
+        {
+          heading: "Updated Version - Transition and Growth",
+          text: [
+            "When I began my studies at the University of Waterloo, I felt it was important to reimagine my logo to reflect my new academic and creative path, showing my growth as both a designer and developer. The lion motif was removed to represent the transition from high school to university - from a local identity to a more personal and professional one.",
+            "The updated logo retained the core elements of the original design, such as the pen tool and my initials, but introduced new elements that represented my evolving identity. I kept the pen tool as the core shape to maintain visual continuity and acknowledge my ongoing passion for design. The colours were updated to black and gold, aligning with the University of Waterloo's school colours, symbolizing this new chapter in my life.",
+            "To represent my shift toward technology, I incorporated circuit board patterns into the design, symbolizing the intersection of art and technology in my work. These details convey connectivity, computation, and digital creativity - the foundations of my studies in Computer Science and specializing in Computational Fine Arts.", 
+            "This version became a more complete representation of who I am - a creator who bridges the worlds of design and technology, constantly evolving and growing in both fields.",
+          ],
+        },
+        {
+          images: [
+            personalLogo,
+          ],
+        },
+        {
+          heading: "Final Logo - Integration of Design and Technology",
+          text: [
+            "The final version brings together all previous iterations into a unified symbol. The Adobe Illustrator pen tool remains the focal point - a bridge between digital design and conceptual creation. The black and gold palette provides contrast and elegance, while also paying homage to my academic roots at the University of Waterloo. As well, the white circuitry patterns add depth and complexity to the design, symbolizing my technical expertise and computational roots, while showing the fusion of art and technology that defines my identity as both a designer and developer.",
+            "In the center, my initials, 'JC,' are cleanly embedded within the composition, anchoring the abstract form with personal authorship. The result is a logo that not only represents my journey and growth but also serves as a versatile and memorable mark for my personal brand. It also displays my creative philosophy - that design and technology are not separate entities or disciplines, but rather complementary and interconnected forces that drive innovation and expression in the digital age.",
+            "This logo has evolved with me, mirroring my own transition from studet to designer-developer. It stands as both a personal brand and a reflection of my interdisciplinary identity - one built on creativity, computation, and continuous growth.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 9,
+      image: csLogo,
+      title: "Waterloo CS Logo Design",
+      date: "September 2020",
+      description: "A logo design for the University of Waterloo's Computer Science 2025 Class.",
+      tags: ["Illustrator"],
+      sections: [
+        {
+          images: [
+            csLogo,
+          ],
+        },
+        {
+          heading: "Waterloo CS Logo Design",
+        },
+        {},
+        {},
       ],
     },
   ];
