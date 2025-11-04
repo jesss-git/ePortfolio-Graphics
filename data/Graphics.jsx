@@ -746,7 +746,7 @@ export default function Graphics() {
     {
       id: 9,
       image: csLogo,
-      title: "Waterloo CS Logo Design",
+      title: "Waterloo CS Class of 2025 Logo",
       date: "September 2020",
       description: "A logo design for the University of Waterloo's Computer Science 2025 Class.",
       tags: ["Illustrator"],
@@ -759,8 +759,59 @@ export default function Graphics() {
         {
           heading: "Waterloo CS Logo Design",
         },
-        {},
-        {},
+        {
+          heading: "Artist Statement",
+          text: [
+            "This project encapsulates both the spirit of the University of Waterloo and the identity of its Computer Science Class of 2025. The logo is designed to be bold, modern, and instantly recognizable, reflecting the innovative and dynamic nature of the Computer Science program at Waterloo. As a student in this program, I aimed to create a logo that not only represents our cohort but also embodies our values. I wanted to design a logo that resonates with my peers and reflected our collective pride, shared experiences, and the intersection between tradition and technology that defines our studies.",
+            "The final logo integrates Waterloo's official crest to anchor the design in the university's rich heritage. The crest is stylized and simplified to fit within a modern aesthetic, ensuring it remains legible and impactful even at smaller sizes. I also wanted to include the Canada goose in the design - a symbol often associated with Waterloo, bringing a sense of community and humour that all Waterloo students can relate to. The goose is illustrated in a sleek, geometric style, giving it a contemporary feel while still being instantly recognizable. The addition of circuit board patterns woven throughout the design represents our field of study, merging academic pride with technological creativity.",
+            "The result is a visual identity that unites symbolism, culture, and technology - a celebration of who we are as students, developers, and Waterloo Warriors. This logo serves as a unifying symbol for our cohort, celebrating our journey together while looking ahead to the future we will shape through technology and innovation.",
+          ],
+        },
+        {
+          heading: "Process Work",
+          text: [
+            "When I learned about the opportunity to create a logo for the Waterloo CS Class of 2025, I immediately saw it as a chance to combine my passion for graphic design and computer science. My goal was to create a design that would feel both professional and relatable, something students would be proud to wear while also representing our unique identity as a cohort and recognizing the humour and character that make our community unqiue.",
+            "I began by sketching ideas in Adobe Illustrator and Photoshop, focusing on how to balance university symbolism with CS elements. I experimented with various layouts, typography, and iconography, trying to find the right combination that would resonate with my peers. Early iterations experiemented with combining the Waterloo crest, circuit motifs, and the goose in different configurations. Each version explored a different tone - from traditional and formal to playful and tech-driven.",
+            "Through several iterations, I refined the design, seeking feedback from classmates to ensure it captured the essence of our cohort. I focused on creating a clean, modern aesthetic, while refining the layout to ensure strong symmetry, readability, clarity, impact and scalability across digital and physical mediums (such as sweaters, posters, and social media). The crest, goose, and circuitry were carefully balanced to represent both institutional pride, student individuality, and our field of study.",
+          ],
+        },
+        {
+          images: [
+            back1,
+            back2,
+            back3,
+            back4,
+            back5,
+            back6,
+            back7,
+            back8,
+          ],
+        },
+        {
+          heading: "Sweater Design Iterations",
+          text: [
+            "The sweater concepts were created as part of my exploration into how the logo could live beyond the screen - as wearable merchandise that fosters class identity. Each iteration experimented with visual hierarchy, various colour schemes, and layout arrangements to find the most effective way to showcase the logo...",
+            "▸ Goose Edition - This is a more playful design featuring a Canada goose breaking a circuit-board background, symbolizing both Waterloo's iconic mascot and the dynamic, forward-moving energy of the CS cohort. This version places the goose front and center, making it the focal point of the design. The circuit patterns are subtly integrated into the background, creating a tech-inspired texture that complements the main graphic without overpowering it.",
+            "▸ Classic Warrior Pride (Blakc and Gold) - This design takes a more traditional approach, emphasizing school spirit with bold black and gold colours. This design features a bold '25' typography with integrated circuit patterns. This version highlighted Waterloo's school colours and the warrior helment, reinforcing faculty pride and class unity, while maintaining a clean and professional look.",
+            "▸ Circuit Series (Green, Purple, Red Variations) - This series explores different colour schemes while maintaining the core logo elements. Each variation experiments with different colour palettes to see how they impact the overall feel of the design and how these different accent hues could shift the feel and tone. Green evokes a sense of growth and innovation, while emphasizing technology, the purple version adds a touch of creativity and uniqueness, while red brings energy, passion, and drive to the forefront.",
+            "Each sweater variation carried the banner 'Warrior Pride,' connecting every concept back to the University's identity and student spirit.",
+          ],
+        },
+        {
+          images: [
+            csLogo,
+          ],
+        },
+        {
+          heading: "Final Logo Design",
+          text: [
+            "The final logo design successfully unites the strongest elements from the various iterations into one cohesive and impactful design. The Canada goose stands confidently at the center, wings spread over a stylized crest featuring a subtle digital glitch effect, merging tradition with innovation. The circuit board patterns are intricately woven into the background, detailing and surrounding the circular frame, adding a technological touch that reflects our field of study. While the outer ring clearly identifies the program and graduating class, 'UWaterloo 2025 - CS | CFM | CS/BBA | SE | CE,'",
+            "This final design captures the essence of the Waterloo Computer Science community - a blend of academic excellence, technological innovation, and student pride. It serves as a unifying symbol for our cohort, celebrating our journey together while looking ahead to the future we will shape through technology and innovation. It's a proud visual marker of the Class of 2025 and a design that bridges heritage, technology, and student identity.",
+          ],
+          images: [
+            allDesigns,
+          ],
+        },
       ],
     },
   ];
