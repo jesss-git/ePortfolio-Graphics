@@ -575,106 +575,6 @@ export default function Graphics() {
     },
     {
       id: 4,
-      image: mod7,
-      title: "My Artistic Life",
-      date: "November 2020",
-      description: "A digital portrait representing how my hobbies have shaped me as an individual and tell my story.",
-      tags: ["Photoshop"],
-      sections: [
-        {
-          images: [
-            mod7,
-          ],
-        },
-        {
-          heading: "My Artistic Life",
-        },
-        {
-          heading: "Artist Statement",
-          text: [
-            "This original piece, 'My Artistic Life,' is a digital self-portrait that clearly depicts me as an individual, my interests, and how I see the world. It reflects what shaped my perspective when growing up into the individual that I now identify as.",
-            "My portrait resembles how much photography and figure skating have impacted my life, molding me into the person that I am. I always looked up to my father and his photography skills, growing up and constantly learning from him. He taught me everything I know about photography. As I got older, my passion for photography grew because it allowed me to capture the moment and truly remember and cherish it forever.",
-            "Likewise, my life has constantly revolved around figure skating. Beginning competitive figure skating when I was five years old, my father would always take pictures at every single competition, capturing the elegance and beauty, and most importantly, the memory. Since I began figure skating at such a young age, putting so much time and effort into the sport, it really impacted me and the person I am today. The sport made me into the confident, artistic, and confident woman that I am today. Without this sport in my life, I wouldn't be where I am today.",
-          ],
-        },
-      ],
-    },
-    {
-      id: 5,
-      image: mod3,
-      title: "Set Free",
-      date: "October 2020",
-      description: "A piece inspired by one of the Hogwarts houses, Gryffindor, from Harry Potter, symbolizing deconstruction.",
-      tags: ["Photoshop"],
-      sections: [
-        {
-          images: [
-            mod3,
-          ],
-        },
-        {
-          heading: "Set Free",
-        },
-        {
-          heading: "Artist Statement",
-          text: [
-            "This piece conforms to the definition of deconstructed space, as seen with the left side of the abstract lion's mane. This piece was inspired by the Hogwarts house, Gryffindor, in Harry Potter, which is represented by a lion and emphasizes traits of courage, daring, and chivalry. The lion resembles a strong and powerful individual who is currently going through difficult hardships as seen through the animal's facial expression. However, no matter how strong an individual may be, sometimes it is physically and mentally impossible to continuously keep fighting. Instead, as depicted by the deconstructed mane, one should learn to let go of uncontrollable issues that cannot be resolved, leaving the result to fate.",
-          ],
-        },
-      ],
-    },
-    {
-      id: 6,
-      image: mod2,
-      title: "Heavenly Hope",
-      date: "September 2020",
-      description: "Inspired by Japanses tradition and created during the 2020 COVID-19 pandemic, this piece was a reminder and representation of hope.",
-      tags: ["Photoshop"],
-      sections: [
-        {
-          images: [
-            mod2,
-          ],
-        },
-        {
-          heading: "Heavenly Hope",
-        },
-        {
-          heading: "Artist Statemet",
-          text: [
-            "In Japan, the famously well-known origami paper crane, which represents good fortune and longevity in many Asian cultures, was believed to have carried souls up to paradise and lived for a thousand years. Traditionally, they thought that if one folded a thousand origami cranes, they were given the chance to make a special wish that would come true; in other variations, people believed one would be granted happiness and eternal luck by the gods.",
-            "The artwork, 'Heavenly Hope,' was inspired by a selfless friend who recently hand folded a thousand origami cranes and donated them to a local hospital, wishing that all those who were ill would make a strong and healthy recovery. He willingly gave up his time, effort, and wish to give back to the community and instill hope in others.",
-            "'Heavenly Hope' is a visual representation of his story and the Japanese tradition. The background is Japanese inspired, composed of circles overlapping each other, imitating movement in the sky. The large red cranes serve as a symbol for luck, vitality, and power, while the small but many yellow cranes symbolize hope. Like in the traditional Japanese story, all the cranes are ascending, carrying all the souls of those who passed away from old age or illnesses from within the hospital. In essence, te underlying theme around the artwork is the essential hope everyone needs every day, especially during hardships when people are at the lowest points of their lives.",
-          ],
-        },
-      ],
-    },
-    {
-      id: 7,
-      image: mod4,
-      title: "Fluttering Hope",
-      date: "October 2020",
-      description: "I created this piece as a reminder to always have hope, and emphasize the importance of it, especially during the darkest of times.",
-      tags: ["Photoshop"],
-      sections: [
-        {
-          images: [
-            mod4,
-          ],
-        },
-        {
-          heading: "Fluttering Hope",
-        },
-        {
-          heading: "Artist Statement",
-          text: [
-            "During these unprecedented times, as the world battles with COVID-19, it is important to have hope, no matter how little, which is the reason I created this original piece, 'Fluttering Hope.' The white doves symbolize the hope that illuminate, motivate, and give life to people in times of darkness, as represented by the black background.",
-          ],
-        },
-      ],
-    },
-    {
-      id: 8,
       image: personalLogo,
       title: "Personal Logo Design",
       date: "September 2020",
@@ -744,7 +644,7 @@ export default function Graphics() {
       ],
     },
     {
-      id: 9,
+      id: 5,
       image: csLogo,
       title: "Waterloo CS Class of 2025 Logo",
       date: "September 2020",
@@ -810,6 +710,106 @@ export default function Graphics() {
           ],
           images: [
             allDesigns,
+          ],
+        },
+      ],
+    },
+    {
+      id: 6,
+      image: mod7,
+      title: "My Artistic Life",
+      date: "November 2020",
+      description: "A digital portrait representing how my hobbies have shaped me as an individual and tell my story.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod7,
+          ],
+        },
+        {
+          heading: "My Artistic Life",
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "This original piece, 'My Artistic Life,' is a digital self-portrait that clearly depicts me as an individual, my interests, and how I see the world. It reflects what shaped my perspective when growing up into the individual that I now identify as.",
+            "My portrait resembles how much photography and figure skating have impacted my life, molding me into the person that I am. I always looked up to my father and his photography skills, growing up and constantly learning from him. He taught me everything I know about photography. As I got older, my passion for photography grew because it allowed me to capture the moment and truly remember and cherish it forever.",
+            "Likewise, my life has constantly revolved around figure skating. Beginning competitive figure skating when I was five years old, my father would always take pictures at every single competition, capturing the elegance and beauty, and most importantly, the memory. Since I began figure skating at such a young age, putting so much time and effort into the sport, it really impacted me and the person I am today. The sport made me into the confident, artistic, and confident woman that I am today. Without this sport in my life, I wouldn't be where I am today.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 7,
+      image: mod3,
+      title: "Set Free",
+      date: "October 2020",
+      description: "A piece inspired by one of the Hogwarts houses, Gryffindor, from Harry Potter, symbolizing deconstruction.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod3,
+          ],
+        },
+        {
+          heading: "Set Free",
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "This piece conforms to the definition of deconstructed space, as seen with the left side of the abstract lion's mane. This piece was inspired by the Hogwarts house, Gryffindor, in Harry Potter, which is represented by a lion and emphasizes traits of courage, daring, and chivalry. The lion resembles a strong and powerful individual who is currently going through difficult hardships as seen through the animal's facial expression. However, no matter how strong an individual may be, sometimes it is physically and mentally impossible to continuously keep fighting. Instead, as depicted by the deconstructed mane, one should learn to let go of uncontrollable issues that cannot be resolved, leaving the result to fate.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 8,
+      image: mod2,
+      title: "Heavenly Hope",
+      date: "September 2020",
+      description: "Inspired by Japanses tradition and created during the 2020 COVID-19 pandemic, this piece was a reminder and representation of hope.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod2,
+          ],
+        },
+        {
+          heading: "Heavenly Hope",
+        },
+        {
+          heading: "Artist Statemet",
+          text: [
+            "In Japan, the famously well-known origami paper crane, which represents good fortune and longevity in many Asian cultures, was believed to have carried souls up to paradise and lived for a thousand years. Traditionally, they thought that if one folded a thousand origami cranes, they were given the chance to make a special wish that would come true; in other variations, people believed one would be granted happiness and eternal luck by the gods.",
+            "The artwork, 'Heavenly Hope,' was inspired by a selfless friend who recently hand folded a thousand origami cranes and donated them to a local hospital, wishing that all those who were ill would make a strong and healthy recovery. He willingly gave up his time, effort, and wish to give back to the community and instill hope in others.",
+            "'Heavenly Hope' is a visual representation of his story and the Japanese tradition. The background is Japanese inspired, composed of circles overlapping each other, imitating movement in the sky. The large red cranes serve as a symbol for luck, vitality, and power, while the small but many yellow cranes symbolize hope. Like in the traditional Japanese story, all the cranes are ascending, carrying all the souls of those who passed away from old age or illnesses from within the hospital. In essence, te underlying theme around the artwork is the essential hope everyone needs every day, especially during hardships when people are at the lowest points of their lives.",
+          ],
+        },
+      ],
+    },
+    {
+      id: 9,
+      image: mod4,
+      title: "Fluttering Hope",
+      date: "October 2020",
+      description: "I created this piece as a reminder to always have hope, and emphasize the importance of it, especially during the darkest of times.",
+      tags: ["Photoshop"],
+      sections: [
+        {
+          images: [
+            mod4,
+          ],
+        },
+        {
+          heading: "Fluttering Hope",
+        },
+        {
+          heading: "Artist Statement",
+          text: [
+            "During these unprecedented times, as the world battles with COVID-19, it is important to have hope, no matter how little, which is the reason I created this original piece, 'Fluttering Hope.' The white doves symbolize the hope that illuminate, motivate, and give life to people in times of darkness, as represented by the black background.",
           ],
         },
       ],
